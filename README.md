@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![An image of @martenson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/martenson)](https://holopin.io/@martenson)
+[![An image of @martenson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/martenson)](https://github.com/galaxyproject/galaxy/labels/help%20wanted)
 
 <!--
 **martenson/martenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
